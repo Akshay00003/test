@@ -1,0 +1,30 @@
+.wrapper-1{
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+.form{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    
+    width: 500px;
+    padding: 40px;
+   
+}
+
+.label{
+    font-size: 20px;
+    position: relative;
+    
+}
+.input{
+    height: 45px;
+    margin-top: -15px;
+}
+.sub{
+    height: 40px;
+    background-color: rgb(230, 46, 193);
+    border: 2px solid white;
+    border-radius: 5px;
+}
